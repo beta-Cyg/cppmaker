@@ -1,2 +1,1 @@
-g++ runner.cpp -o runner.o -static
-ln cppmaker runner.o
+g++ runner.cpp -o /usr/bin/cppmaker -static
